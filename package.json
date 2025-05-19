@@ -4,6 +4,7 @@
   "description": "Pilvi-client",
   "main": "mqtt_mongo.js",
   "scripts": {
+    "start": "node mqtt_mongo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -21,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nakkipena/MQTT-MONGODB-app.git"
+    "url": "git+https://github.com/BeetleJuice-cloud/ATT3.git"
   },
   "bugs": {
-    "url": "https://github.com/Nakkipena/MQTT-MONGODB-app/issues"
+    "url": "https://github.com/BeetleJuice-cloud/issues"
   },
-  "homepage": "https://github.com/Nakkipena/MQTT-MONGODB-app#readme"
+  "homepage": "https://github.com/BeetleJuice-cloud/ATT3#readme"
 }
